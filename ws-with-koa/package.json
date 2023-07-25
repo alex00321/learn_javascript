@@ -17,6 +17,7 @@
         "url": "https://github.com/alex00321/learn_javascript.git"
     },
     "dependencies": {
+        "ws": "3.0.0",
         "koa": "2.0.0",
         "koa-bodyparser": "3.2.0",
         "koa-router": "7.0.0",
